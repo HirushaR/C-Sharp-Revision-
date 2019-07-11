@@ -1,0 +1,12 @@
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.csprojAssemblyReference.cache
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.Form1.resources
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.Properties.Resources.resources
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.csproj.GenerateResource.cache
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.csproj.CoreCompileInputs.cache
+E:\hiru\works\C#\practice123\practice123\bin\Debug\practice123.exe.config
+E:\hiru\works\C#\practice123\practice123\bin\Debug\practice123.exe
+E:\hiru\works\C#\practice123\practice123\bin\Debug\practice123.pdb
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.exe
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.pdb
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.Form2.resources
+E:\hiru\works\C#\practice123\practice123\obj\Debug\practice123.Form3.resources
