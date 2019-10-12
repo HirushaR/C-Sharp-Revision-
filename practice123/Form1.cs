@@ -22,8 +22,8 @@ namespace practice123
         {
             // get the input from text boxes 
             string uname = textBox1.Text;
-            string eml = textBox2.Text;
-            string psw = textBox3.Text;
+            string email = textBox2.Text;
+            string password = textBox3.Text;
             int by = int.Parse(textBox4.Text);
             //assign the radio btn value to 0 
             int val = 0;
@@ -38,7 +38,7 @@ namespace practice123
             using (var connection = DB.GetConnection())
             {
                 //insert value to the data base
-                string qry = "insert into alluser values('" + uname + "','" + eml + "','" + psw + "','" + val + "','" + by + "')";
+                string qry = "insert into alluser values('" + uname + "','" + email + "','" + password + "','" + val + "','" + by + "')";
                 SqlCommand cmd = new SqlCommand(qry, connection);
                 try {
                     connection.Open();
