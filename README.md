@@ -3,10 +3,10 @@ this is c# revision
 
 oop concepts in c#
 ```
-    Encapsulation 
-    Inheritance 
-    Polymorphism
-    Abstraction 
+   1. Encapsulation 
+   2. Inheritance 
+   3. Polymorphism
+   4. Abstraction 
 ```
 in this project i use         
   1/ Encapsulation      
